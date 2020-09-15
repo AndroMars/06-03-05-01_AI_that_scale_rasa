@@ -1,1 +1,1 @@
-AI_that_scale_rasa
+#Building AI assistants that scale using machine learning and open source tools
